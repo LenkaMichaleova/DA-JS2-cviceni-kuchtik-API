@@ -1,152 +1,82 @@
 [
-  {
-    "id": 1,
-    "title": "Špagety Carbonara",
-    "image": "https://cdn.administrace.tv/2022/08/06/hd/8f7a9e951f1eb9b1075e7902b2f0c00f.jpg",
-    "description": "Tradiční italské těstoviny s vejci, sýrem a slaninou.",
-    "ingredients": [
-      "špagety",
-      "vajíčka",
-      "parmazán",
-      "pancetta",
-      "pepř",
-      "sůl"
-    ],
-    "instructions": "Uvařte těstoviny, orestujte pancettu, smíchejte s vejci a sýrem, spojte vše dohromady."
-  },
-  {
-    "id": 2,
-    "title": "Kuřecí tikka masala",
-    "image": "https://paleosnadno.cz/wp-content/uploads/2014/12/DSC0350-5.jpg",
-    "description": "Indická klasika v jemně kořeněné rajčatové omáčce.",
-    "ingredients": [
-      "kuřecí maso",
-      "jogurt",
-      "rajčatové pyré",
-      "česnek",
-      "zázvor",
-      "koření garam masala"
-    ],
-    "instructions": "Marinujte maso, opečte, připravte omáčku, spojte a duste do změknutí."
-  },
-  {
-    "id": 3,
-    "title": "Hovězí guláš",
-    "image": "https://www.kurzyatac.cz/data/recept/hovezi-gulas-s-varenymi-bramborami-604.jpg",
-    "description": "Český guláš z hovězího masa s cibulí a paprikou.",
-    "ingredients": [
-      "hovězí kližka",
-      "cibule",
-      "česnek",
-      "sladká paprika",
-      "majoránka",
-      "sůl",
-      "pepř"
-    ],
-    "instructions": "Orestujte cibuli, přidejte maso a koření, podlijte a duste několik hodin."
-  },
-  {
-    "id": 4,
-    "title": "Smažený sýr",
-    "image": "https://storage.kupi.cz/d/recipes-recipe/2256/large",
-    "description": "Klasika českých hospod – s hranolkami a tatarkou.",
-    "ingredients": [
-      "eidam",
-      "vejce",
-      "strouhanka",
-      "hladká mouka",
-      "olej na smažení"
-    ],
-    "instructions": "Obalte sýr v trojobalu, osmažte dozlatova, podávejte s hranolkami."
-  },
-  {
-    "id": 5,
-    "title": "Rizoto s houbami",
-    "image": "https://paleosnadno.cz/wp-content/uploads/2014/09/DSC0187-2.jpg",
-    "description": "Krémové rizoto s lesními houbami a parmazánem.",
-    "ingredients": [
-      "rýže arborio",
-      "houby",
-      "vývar",
-      "cibule",
-      "parmazán",
-      "máslo"
-    ],
-    "instructions": "Restujte cibuli a houby, přidejte rýži, vývar po částech a na závěr parmazán."
-  },
-  {
-    "id": 6,
-    "title": "Domácí burger",
-    "image": "https://cdn.administrace.tv/2024/07/17/hd/7ae7e6820b14ba3a80735e5d586ddd48.jpg",
-    "description": "Šťavnatý burger s domácí bulky a volitelnými ingrediencemi.",
-    "ingredients": [
-      "hovězí maso",
-      "bulka",
-      "sýr",
-      "salát",
-      "rajče",
-      "kečup",
-      "hořčice"
-    ],
-    "instructions": "Ogrilujte maso, opečte bulku, poskládejte burger podle chuti."
-  },
-  {
-    "id": 7,
-    "title": "Caesar salát",
-    "image": "https://cdn.administrace.tv/2022/08/06/hd/18e34e034c13eff0cab867653a889bf3.jpg",
-    "description": "Lehký salát s kuřecím masem, krutony a parmazánem.",
-    "ingredients": [
-      "římský salát",
-      "kuřecí prsa",
-      "krutony",
-      "parmazán",
-      "dresink caesar"
-    ],
-    "instructions": "Ogrilujte kuře, promíchejte se salátem, přidejte dresink a posypte sýrem."
-  },
-  {
-    "id": 8,
-    "title": "Bramboráky",
-    "image": "https://cdn.administrace.tv/2022/08/07/hd/e154dfe0832182546ba72e5528580181.jpg",
-    "description": "Chrupavé placičky z nastrouhaných brambor a česneku.",
-    "ingredients": [
-      "brambory",
-      "česnek",
-      "majoránka",
-      "vejce",
-      "mouka",
-      "sůl",
-      "pepř"
-    ],
-    "instructions": "Nastrouhejte brambory, dochuťte, tvořte placičky a smažte dozlatova."
-  },
-  {
-    "id": 9,
-    "title": "Palačinky s ovocem",
-    "image": "https://imnam.cz/wp-content/uploads/2023/10/web-2-2.jpg",
-    "description": "Sladká pochoutka plněná čerstvým ovocem a šlehačkou.",
-    "ingredients": [
-      "mléko",
-      "vejce",
-      "mouka",
-      "cukr",
-      "ovoce",
-      "šlehačka"
-    ],
-    "instructions": "Umíchejte těsto, smažte palačinky, naplňte ovocem a dozdobte."
-  },
-  {
-    "id": 10,
-    "title": "Lasagne",
-    "image": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/db6082a6-37fa-4b4d-b84b-306ef01d8438?v=1716745582",
-    "description": "Vrstvené těstoviny s masovou omáčkou a bešamelem.",
-    "ingredients": [
-      "těstoviny na lasagne",
-      "mleté maso",
-      "rajčata",
-      "bešamel",
-      "sýr"
-    ],
-    "instructions": "Střídejte vrstvy těstovin, masa a omáčky, zapečte dozlatova."
-  }
+    {
+      "id": 1,
+      "title": "Špagety Carbonara",
+      "image": "https://cdn.administrace.tv/2022/08/06/hd/8f7a9e951f1eb9b1075e7902b2f0c00f.jpg",
+      "description": "Tradiční italské těstoviny s vejci, sýrem a slaninou.",
+      "ingredients": ["špagety", "vajíčka", "parmazán", "pancetta", "pepř", "sůl"],
+      "instructions": "Uvařte špagety ve vroucí osolené vodě do měkka. Mezitím na pánvi orestujte na kostičky nakrájenou pancettu dozlatova. V míse rozšlehejte vejce s nastrouhaným parmazánem, přidejte čerstvě mletý pepř. Sceďte těstoviny a ještě horké je smíchejte s pancettou a vaječnou směsí – teplo špaget směs zjemní a vytvoří krémovou omáčku. Ihned podávejte."
+    },
+    {
+      "id": 2,
+      "title": "Kuřecí tikka masala",
+      "image": "https://paleosnadno.cz/wp-content/uploads/2014/12/DSC0350-5.jpg",
+      "description": "Indická klasika v jemně kořeněné rajčatové omáčce.",
+      "ingredients": ["kuřecí maso", "jogurt", "rajčatové pyré", "česnek", "zázvor", "koření garam masala"],
+      "instructions": "Nakrájejte kuřecí maso na kostky a marinujte ho několik hodin v jogurtu, utřeném česneku, nastrouhaném zázvoru a koření. Poté maso opečte na pánvi dozlatova. V jiné pánvi připravte omáčku z rajčatového pyré, přidejte koření a povařte. Přidejte maso do omáčky a duste na mírném ohni, dokud nebude maso měkké a omáčka hustá. Podávejte s rýží nebo naanem."
+    },
+    {
+      "id": 3,
+      "title": "Hovězí guláš",
+      "image": "https://www.kurzyatac.cz/data/recept/hovezi-gulas-s-varenymi-bramborami-604.jpg",
+      "description": "Český guláš z hovězího masa s cibulí a paprikou.",
+      "ingredients": ["hovězí kližka", "cibule", "česnek", "sladká paprika", "majoránka", "sůl", "pepř"],
+      "instructions": "Na oleji opečte dohněda velké množství cibule, přidejte na kostky nakrájenou hovězí kližku a opékejte. Přidejte utřený česnek, sladkou papriku a promíchejte. Podlijte vodou nebo vývarem a vařte na mírném ohni několik hodin, dokud maso nezměkne a omáčka nezhoustne. Na závěr dochuťte solí, pepřem a majoránkou."
+    },
+    {
+      "id": 4,
+      "title": "Smažený sýr",
+      "image": "https://storage.kupi.cz/d/recipes-recipe/2256/large",
+      "description": "Klasika českých hospod – s hranolkami a tatarkou.",
+      "ingredients": ["eidam", "vejce", "strouhanka", "hladká mouka", "olej na smažení"],
+      "instructions": "Nakrájejte sýr na plátky, obalte nejprve v mouce, pak ve vajíčku a nakonec ve strouhance. Pro jistotu můžete postup opakovat, aby sýr nevytekl. Smažte ve vyšší vrstvě rozpáleného oleje dozlatova z obou stran. Podávejte s hranolkami a tatarskou omáčkou."
+    },
+    {
+      "id": 5,
+      "title": "Rizoto s houbami",
+      "image": "https://paleosnadno.cz/wp-content/uploads/2014/09/DSC0187-2.jpg",
+      "description": "Krémové rizoto s lesními houbami a parmazánem.",
+      "ingredients": ["rýže arborio", "houby", "vývar", "cibule", "parmazán", "máslo"],
+      "instructions": "Na másle zpěňte najemno nakrájenou cibuli, přidejte nakrájené houby a krátce orestujte. Přidejte rýži a restujte, dokud nebude sklovitá. Po částech přilévejte horký vývar a nechte ho vždy absorbovat. Neustále míchejte. Když je rýže měkká, vmíchejte nastrouhaný parmazán a kousek másla. Ihned podávejte."
+    },
+    {
+      "id": 6,
+      "title": "Domácí burger",
+      "image": "https://cdn.administrace.tv/2024/07/17/hd/7ae7e6820b14ba3a80735e5d586ddd48.jpg",
+      "description": "Šťavnatý burger s domácí bulky a volitelnými ingrediencemi.",
+      "ingredients": ["hovězí maso", "bulka", "sýr", "salát", "rajče", "kečup", "hořčice"],
+      "instructions": "Z hovězího masa vytvořte placky, které opečte z obou stran na pánvi nebo grilu. Mezitím rozkrojte bulky a lehce je opečte. Na spodní část bulky naneste omáčky, přidejte maso, sýr, salát a rajče. Přiklopte vrchní částí bulky a podávejte s hranolky."
+    },
+    {
+      "id": 7,
+      "title": "Caesar salát",
+      "image": "https://cdn.administrace.tv/2022/08/06/hd/18e34e034c13eff0cab867653a889bf3.jpg",
+      "description": "Lehký salát s kuřecím masem, krutony a parmazánem.",
+      "ingredients": ["římský salát", "kuřecí prsa", "krutony", "parmazán", "dresink caesar"],
+      "instructions": "Kuřecí prsa osolte, opepřete a ogrilujte dozlatova. Nechte chvíli odpočinout a nakrájejte. Na talíř natrhejte římský salát, přidejte krutony, maso a přelijte dresinkem. Nakonec posypte hoblinami parmazánu. Ihned podávejte."
+    },
+    {
+      "id": 8,
+      "title": "Bramboráky",
+      "image": "https://cdn.administrace.tv/2022/08/07/hd/e154dfe0832182546ba72e5528580181.jpg",
+      "description": "Chrupavé placičky z nastrouhaných brambor a česneku.",
+      "ingredients": ["brambory", "česnek", "majoránka", "vejce", "mouka", "sůl", "pepř"],
+      "instructions": "Brambory nastrouhejte najemno, slijte přebytečnou vodu. Přidejte vejce, prolisovaný česnek, mouku a dochuťte kořením. Vše důkladně promíchejte. Na rozpáleném oleji tvořte placičky a smažte dozlatova z obou stran. Podávejte teplé."
+    },
+    {
+      "id": 9,
+      "title": "Palačinky s ovocem",
+      "image": "https://imnam.cz/wp-content/uploads/2023/10/web-2-2.jpg",
+      "description": "Sladká pochoutka plněná čerstvým ovocem a šlehačkou.",
+      "ingredients": ["mléko", "vejce", "mouka", "cukr", "ovoce", "šlehačka"],
+      "instructions": "Smíchejte mléko, vejce, mouku a cukr a vytvořte hladké těsto. Nechte chvíli odpočinout. Na pánvi smažte tenké palačinky z obou stran dozlatova. Naplňte čerstvým ovocem a dozdobte šlehačkou nebo polevou dle chuti."
+    },
+    {
+      "id": 10,
+      "title": "Lasagne",
+      "image": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/db6082a6-37fa-4b4d-b84b-306ef01d8438?v=1716745582",
+      "description": "Vrstvené těstoviny s masovou omáčkou a bešamelem.",
+      "ingredients": ["těstoviny na lasagne", "mleté maso", "rajčata", "bešamel", "sýr"],
+      "instructions": "Připravte si masovou směs z mletého masa, cibule a rajčat. Bešamel uvařte z másla, mouky a mléka do hladka. V pekáči střídavě vrstvěte těstoviny, masovou směs a bešamel, posypte sýrem. Vrstvy opakujte, zakončete sýrem. Pečte v předehřáté troubě dozlatova asi 40 minut."
+    }
 ]
